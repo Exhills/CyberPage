@@ -120,9 +120,9 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"name": "FMHY",
+						"url": "https://fmhy.net/",
+						"icon": "mdi:play"
 					},
 					{
 						"name": "Keybase",
@@ -201,24 +201,24 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "Sens Convert",
+						"url": "https://gamingsmart.com/mouse-sensitivity-converter/",
+						"icon": "mdi:alpha-g-circle-outline"
+					},
+					{
+						"name": "Speedruns",
+						"url": "https://www.speedrun.com/",
+						"icon": "mdi:trophy"
 					},
 					{
 						"name": "IGN",
-						"url": "https://ign.com",
+						"url": "https://www.ign.com/",
 						"icon": "mdi:currency-sign"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
-					},
-					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "Steam",
+						"url": "https://store.steampowered.com/",
+						"icon": "mdi:steam"
 					}
 				]
 			},
