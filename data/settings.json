@@ -1,6 +1,6 @@
 {
-	"username": "Excalith",
-	"title": "Excalith Start Page",
+	"username": "Exhils",
+	"title": "レベッカ。",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -17,7 +17,7 @@
 		"gray": "#97989d"
 	},
 	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
+		"url": "assets/cyberwall.jpg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
