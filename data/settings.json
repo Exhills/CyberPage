@@ -47,7 +47,7 @@
 		"timeFormat": "HH:mm",
 		"dateFormat": "DD/MM/YYYY",
 		"titleColor": "yellow",
-		"image": "assets/default-icon.svg",
+		"image": "assets/rabecca-icon.png",
 		"data": [
 			"Time: {time}",
 			"Date: {date}",
