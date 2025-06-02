@@ -1,26 +1,26 @@
 {
 	"username": "Exhils",
 	"title": "レベッカ。",
-{
-	"name": "Synthwave",
-	"backgroundColor": "#1E1429",
-	"windowColor": "#2b213a",
-	"textColor": "#e2e2e2",
-	"black": "#16161e",
-	"red": "#fe4450",
-	"green": "#72f1b8",
-	"yellow": "#fede5d",
-	"blue": "#03edf9",
-	"magenta": "#ff7edb",
-	"cyan": "#03edf9",
-	"white": "#e2e2e2",
-	"gray": "#97989d"
+	"theme": {
+		"name": "Synthwave",
+		"backgroundColor": "#1E1429",
+		"windowColor": "#2b213a",
+		"textColor": "#e2e2e2",
+		"black": "#16161e",
+		"red": "#fe4450",
+		"green": "#72f1b8",
+		"yellow": "#fede5d",
+		"blue": "#03edf9",
+		"magenta": "#ff7edb",
+		"cyan": "#03edf9",
+		"white": "#e2e2e2",
+		"gray": "#97989d"
 	},
 	"wallpaper": {
 		"url": "assets/cyberwall.jpg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
-		"blur": true
+		"blur": false
 	},
 	"terminal": {
 		"fixedHeight": true,
