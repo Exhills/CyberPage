@@ -17,7 +17,7 @@
 		"gray": "#97989d"
 	},
 	"wallpaper": {
-		"url": "assets/cyberwall.jpg",
+		"url": "assets/lucywall.jpg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
