@@ -27,7 +27,7 @@
 		"windowGlow": true,
 		"windowGlowColor": "#291f3325",
 		"textGlow": false,
-		"opacity": 86,
+		"opacity": 1,
 		"blur": 16
 	},
 	"prompt": {
