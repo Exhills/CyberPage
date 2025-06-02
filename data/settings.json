@@ -179,9 +179,9 @@
 						"icon": "mdi:twitter"
 					},
 					{
-						"name": "Mastodon",
+						"name": "Instagram",
 						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"icon": "ri:instagram"
 					},
 					{
 						"name": "Reddit",
@@ -189,9 +189,9 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Polywork",
+						"name": "Discord",
 						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"icon": "mdi:discord"
 					}
 				]
 			},
