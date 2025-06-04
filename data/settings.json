@@ -157,14 +157,14 @@
 						"icon": "ph:gitlab-logo-simple-fill"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
+						"name": "CodeCafe",
+						"url": "https://codecafe.app/",
 						"icon": "material-symbols:logo-dev"
 					},
 					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "CyberTip Report",
+						"url": "https://report.cybertip.org/",
+						"icon": "mdi:flag-variant-outline"
 					}
 				]
 			},
