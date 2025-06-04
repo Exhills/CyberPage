@@ -125,9 +125,9 @@
 						"icon": "mdi:play"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "AniList",
+						"url": "https://anilist.co/home",
+						"icon": "mdi:list-box"
 					},
 					{
 						"name": "GPT",
@@ -250,29 +250,29 @@
 				]
 			},
 			{
-				"title": "Tech",
+				"title": "Entertainment",
 				"color": "yellow",
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "Miruro",
+						"url": "https://www.miruro.tv/",
+						"icon": "mdi:dog "
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "Twitch",
+						"url": "https://www.twitch.tv/",
+						"icon": "mdi:twitch"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
+						"name": "ComicK",
+						"url": "https://comick.io/",
+						"icon": "mdi:book-open-blank-variant-outline"
 					},
 					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "SkipCut",
+						"url": "https://skipcut.com/",
+						"icon": "mdi:youtube-subscription"
 					}
 				]
 			}
