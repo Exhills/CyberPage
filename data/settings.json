@@ -46,8 +46,8 @@
 	"fetch": {
 		"timeFormat": "HH:mm",
 		"dateFormat": "DD/MM/YYYY",
-		"titleColor": "yellow",
-		"image": "assets/rabecca-icon.png",
+		"titleColor": "blue",
+		"image": "assets/peace-icon.png",
 		"data": [
 			"Time: {time}",
 			"Date: {date}",
