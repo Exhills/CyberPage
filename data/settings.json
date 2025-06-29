@@ -26,7 +26,7 @@
 		"fixedHeight": true,
 		"windowGlow": true,
 		"windowGlowColor": "#291f3325",
-		"textGlow": false,
+		"textGlow": true,
 		"opacity": 0,
 		"blur": 3
 	},
