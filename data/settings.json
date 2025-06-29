@@ -130,14 +130,14 @@
 						"icon": "mdi:list-box"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "PhotoPea",
+						"url": "https://www.photopea.com/",
+						"icon": "mdi:image-filter-vintage"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Sync Bookmark",
+						"url": "https://floccus.org/",
+						"icon": "mdi:bookmark-outline"
 					}
 				]
 			},
@@ -190,7 +190,7 @@
 					},
 					{
 						"name": "Discord",
-						"url": "https://polywork.com",
+						"url": "https://discord.com/channels/@me",
 						"icon": "mdi:discord"
 					}
 				]
@@ -223,29 +223,29 @@
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Random",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "ASF",
+						"url": "http://127.0.0.1:1242/bots",
+						"icon": "mdi:barley"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Steamgrid DB",
+						"url": "https://www.steamgriddb.com/",
+						"icon": "mdi:checkbox-multiple-blank"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "SteamPeek",
+						"url": "https://steampeek.hu//",
+						"icon": "mdi:security"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "Ripped",
+						"url": "https://ripped.guide/",
+						"icon": "mdi:sofa-outline"
 					}
 				]
 			},
