@@ -17,7 +17,7 @@
 		"gray": "#596172;"
 	},
 	"wallpaper": {
-		"url": "assets/bluefirewatch.jpg",
+		"url": "assets/WindowWall.jpg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
