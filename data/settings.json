@@ -47,7 +47,7 @@
 		"timeFormat": "HH:mm",
 		"dateFormat": "DD/MM/YYYY",
 		"titleColor": "blue",
-		"image": "assets/peace-icon.png",
+		"image": "assets/moonlit-icon.png",
 		"data": [
 			"Time: {time}",
 			"Date: {date}",
